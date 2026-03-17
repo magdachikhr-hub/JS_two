@@ -25,17 +25,37 @@
 
 // console.log(userAge);
 
-let text = "javascript";
+// let text = "javascript";
 
-console.log(text.charAt(2));
+// console.log(text.charAt(2));
 
-console.log(text.length);
-console.log(text.indexOf("p"));
-console.log(text.lastIndexOf("a"));
-console.log(text.toLocaleLowerCase());
-console.log(text.toLocaleUpperCase());
+// console.log(text.length);
+// console.log(text.indexOf("p"));
+// console.log(text.lastIndexOf("a"));
+// console.log(text.toLocaleLowerCase());
+// console.log(text.toLocaleUpperCase());
 
-let age = 23;
-let name = "user";
+// let age = 23;
+// let name = "user";
 
-console.log("hi , my name is " + name  + " my age is: " + age );
+// console.log("hi , my name is " + name + " my age is: " + age);
+
+let message = "hi, how are you?"; //string
+let isAdult = true; //boolean
+// let age;
+let userName = null;
+
+let year = 2026;
+let transport = "bus";
+let city = "tbilisi";
+
+let firstName = "magda";
+let lastName = "chikhradze";
+let isMarried = false;
+let country = "georgia";
+let age = 200;
+
+let yourAge = 30;
+let myAge = 25;
+
+console.log("i am " + myAge + " years old." + " you are " + yourAge + " years old.");
